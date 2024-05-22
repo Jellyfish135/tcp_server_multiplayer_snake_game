@@ -28,5 +28,6 @@ git clone <repository-url>
 cd <project-directory>
 pip install pygame rsa
 
-[![user interface](images/single_client_screenshot.png)](https://github.com/Jellyfish135/tcp_server_multiplayer_snake_game/issues/1#issue-2311457100)
+![user interface](images/single_client_screenshot.png)
 
+<img width="1437" alt="img" src="https://github.com/Jellyfish135/tcp_server_multiplayer_snake_game/assets/135635944/2ba5f1a0-aa5e-424e-9bfb-c2313edcbdcc">
