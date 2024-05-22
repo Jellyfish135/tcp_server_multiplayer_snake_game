@@ -27,3 +27,6 @@ Clone the repository and install dependencies:
 git clone <repository-url>
 cd <project-directory>
 pip install pygame rsa
+
+<img width="1437" alt="img" src="https://github.com/Jellyfish135/tcp_server_multiplayer_snake_game/assets/135635944/2ba5f1a0-aa5e-424e-9bfb-c2313edcbdcc">
+
