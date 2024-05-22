@@ -27,6 +27,7 @@ Clone the repository and install dependencies:
 git clone <repository-url>
 cd <project-directory>
 pip install pygame rsa
+```
 
 ![user interface](images/single_client_screenshot.png)
 
