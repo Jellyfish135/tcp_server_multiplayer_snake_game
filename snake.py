@@ -1,8 +1,4 @@
-# CS3357A 2023
-# Assignment 4
 # Juyoung Lee
-# 251044384
-# jlee3425
 # Dec,8,2023
 
 
