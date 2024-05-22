@@ -20,7 +20,7 @@ This repository hosts the code for a snake game designed with a server-client ar
 - **Pygame**: Used for rendering the graphical interface.
 - **Socket**: Facilitates network communication.
 - **RSA**: Ensures secure message transmission.
-<img width="1437" alt="img" src="https://github.com/Jellyfish135/tcp_server_multiplayer_snake_game/assets/135635944/2ba5f1a0-aa5e-424e-9bfb-c2313edcbdcc">
+
 ## Installation
 Clone the repository and install dependencies:
 ```bash
